@@ -1,7 +1,6 @@
 # Blood Bank Management System
 
 ---
-## Screenshots
 ### Homepage
 
 ### Admin Dashboard
